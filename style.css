@@ -1,0 +1,21 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.heading_div
+{
+    float: none;
+    width: 100%;
+    font-size: 24px;
+    margin-top: 0px;
+}
+#play
+{
+    margin-bottom: 20px;
+}
+#status
+{
+    margin-bottom: 20px;
+}
